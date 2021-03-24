@@ -1,2 +1,2 @@
 # kavita
-I am working as Software Developer .
+I am working as Software Developer.
