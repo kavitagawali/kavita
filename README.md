@@ -1,3 +1,3 @@
 
-<div>:computer: I am working as Software Developer.</div>
+<div>:computer: I am a Software Developer.</div>
 :pushpin: Currently working in Angular Development.
